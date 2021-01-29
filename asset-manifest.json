@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/siddiquisabih/reactJsDeploy/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/siddiquisabih/reactJsDeploy/static/js/main.a617d539.chunk.js",
-    "main.js.map": "/siddiquisabih/reactJsDeploy/static/js/main.a617d539.chunk.js.map",
+    "main.js": "/siddiquisabih/reactJsDeploy/static/js/main.7783ef24.chunk.js",
+    "main.js.map": "/siddiquisabih/reactJsDeploy/static/js/main.7783ef24.chunk.js.map",
     "runtime-main.js": "/siddiquisabih/reactJsDeploy/static/js/runtime-main.d434ac0b.js",
     "runtime-main.js.map": "/siddiquisabih/reactJsDeploy/static/js/runtime-main.d434ac0b.js.map",
     "static/js/2.80e743a6.chunk.js": "/siddiquisabih/reactJsDeploy/static/js/2.80e743a6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d434ac0b.js",
     "static/js/2.80e743a6.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a617d539.chunk.js"
+    "static/js/main.7783ef24.chunk.js"
   ]
 }
