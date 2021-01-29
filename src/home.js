@@ -12,17 +12,9 @@ export default class Home extends React.Component {
         return (
 
             <div>
-
-
-
-
-                <button onClick={() => { history.push("/about") }} >About Us</button>
-                <button onClick={() => { history.push("/contact") }} >Contact us</button>
+                <button onClick={() => { history.push("/siddiquisabih/reactJsDeploy/about") }} >About Us</button>
+                <button onClick={() => { history.push("/siddiquisabih/reactJsDeploy/contact") }} >Contact us</button>
             </div>
-
-
-
-
 
 
         )

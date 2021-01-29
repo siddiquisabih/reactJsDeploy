@@ -14,9 +14,9 @@ export default class Router extends Component {
     render() {
         return (
             <div>
-                <Route path="/" component={Home} />
-                <Route path="/About" component={About} />
-                <Route path="/contact" component={Contact} />
+                <Route path="/siddiquisabih/reactJsDeploy" component={Home} />
+                <Route path="/siddiquisabih/reactJsDeploy/About" component={About} />
+                <Route path="/siddiquisabih/reactJsDeploy/contact" component={Contact} />
 
             </div>
 
