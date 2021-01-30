@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/reactJsDeploy/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/github.io/reactJsDeploy/static/js/main.7783ef24.chunk.js",
-    "main.js.map": "/github.io/reactJsDeploy/static/js/main.7783ef24.chunk.js.map",
-    "runtime-main.js": "/github.io/reactJsDeploy/static/js/runtime-main.bee580fb.js",
-    "runtime-main.js.map": "/github.io/reactJsDeploy/static/js/runtime-main.bee580fb.js.map",
-    "static/js/2.80e743a6.chunk.js": "/github.io/reactJsDeploy/static/js/2.80e743a6.chunk.js",
-    "static/js/2.80e743a6.chunk.js.map": "/github.io/reactJsDeploy/static/js/2.80e743a6.chunk.js.map",
-    "static/js/3.7b364ebf.chunk.js": "/github.io/reactJsDeploy/static/js/3.7b364ebf.chunk.js",
-    "static/js/3.7b364ebf.chunk.js.map": "/github.io/reactJsDeploy/static/js/3.7b364ebf.chunk.js.map",
-    "index.html": "/github.io/reactJsDeploy/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/github.io/reactJsDeploy/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.80e743a6.chunk.js.LICENSE.txt": "/github.io/reactJsDeploy/static/js/2.80e743a6.chunk.js.LICENSE.txt"
+    "main.css": "/reactJsDeploy/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactJsDeploy/static/js/main.7783ef24.chunk.js",
+    "main.js.map": "/reactJsDeploy/static/js/main.7783ef24.chunk.js.map",
+    "runtime-main.js": "/reactJsDeploy/static/js/runtime-main.b360e853.js",
+    "runtime-main.js.map": "/reactJsDeploy/static/js/runtime-main.b360e853.js.map",
+    "static/js/2.80e743a6.chunk.js": "/reactJsDeploy/static/js/2.80e743a6.chunk.js",
+    "static/js/2.80e743a6.chunk.js.map": "/reactJsDeploy/static/js/2.80e743a6.chunk.js.map",
+    "static/js/3.7b364ebf.chunk.js": "/reactJsDeploy/static/js/3.7b364ebf.chunk.js",
+    "static/js/3.7b364ebf.chunk.js.map": "/reactJsDeploy/static/js/3.7b364ebf.chunk.js.map",
+    "index.html": "/reactJsDeploy/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/reactJsDeploy/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.80e743a6.chunk.js.LICENSE.txt": "/reactJsDeploy/static/js/2.80e743a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bee580fb.js",
+    "static/js/runtime-main.b360e853.js",
     "static/js/2.80e743a6.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.7783ef24.chunk.js"
